@@ -151,7 +151,7 @@ Always building something new — check back for fresh AI & full-stack projects!
 <a href="mailto:niranjan2007shanmugaselvan@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/niranjan-s-7a8b71379">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Niranjan1107">
@@ -159,7 +159,7 @@ Always building something new — check back for fresh AI & full-stack projects!
 </a>
 </p>
 
-> 💼 Add your LinkedIn URL in the badge link above, and your portfolio link when it's ready!
+> 🌐 Add your portfolio link here once it's ready!
 
 ---
 
