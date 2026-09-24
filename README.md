@@ -1,176 +1,411 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Niranjan%20S%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<!-- HEADER -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+Project+Builder;Java+%7C+React+%7C+Node.js;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00e5ff&height=230&section=header&text=NIRANJAN%20S%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Java%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Niranjan1107&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="profile views"/>
+<br>
+
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=60&lines=Computer+Science+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Java+%7C+React+%7C+Node.js+%7C+PostgreSQL;Building+Real-World+Applications+%F0%9F%8C%8D;Always+Learning.+Always+Building.+%E2%9C%A8" />
+
+<br>
+
+<!-- PROFILE VIEWS -->
+
+<img src="https://komarev.com/ghpvc/?username=Niranjan1107&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge"/>
+
+ 
+
+<img src="https://img.shields.io/github/followers/Niranjan1107?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
+
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-🎓 Degree:      B.E. Computer Science and Engineering
-🏫 College:     V.S.B. Engineering College (Autonomous), Karur
-💻 Passion:     Building real-world applications with modern tech
-🚀 Interests:   Artificial Intelligence • Full Stack Dev • Problem Solving
-🌱 Learning:    Advanced Java • DSA • React.js • Node.js • PostgreSQL • Cloud
-🎯 Goal:        Software Engineer @ a product-based company, building impactful AI apps
+Name: Niranjan S
+Role: Computer Science Engineering Student
+
+Focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Generative AI
+  - Backend Development
+  - Problem Solving
+
+Currently Learning:
+  - Advanced Java
+  - Data Structures & Algorithms
+  - React.js
+  - Node.js
+  - PostgreSQL
+  - Cloud Technologies
+
+Interests:
+  - Building AI-powered applications
+  - Backend engineering
+  - Real-world problem solving
+  - Exploring emerging technologies
+
+Goal:
+  Become a Software Engineer and build
+  impactful technology that solves real problems.
 ```
 
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & AI
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-</div>
+<br clear="right"/>
 
 ---
 
-## 🌟 Featured Projects
+## ⚡ What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌾 Agri-Smart
-AI-powered smart agriculture platform supporting Tamil & English.
+### 🤖 AI & Generative AI
 
-**✨ Features**
-- 🤖 AI Crop Advisor
-- 🌱 Disease Detection
-- 💧 Irrigation Recommendation
-- 🌦 Weather-based Suggestions
-
-**🛠 Tech Stack**
-`React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
+* AI-powered applications
+* Gemini API integration
+* Intelligent recommendation systems
+* Document analysis
+* AI assistants
+* RAG-based applications
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 SkillGap AI
-AI-powered Resume & Job Description Analyzer.
+<td width="50%">
 
-**✨ Features**
-- 📄 Resume Analysis
-- 🎯 Job Description Matching
-- 📊 Skill Gap Detection
-- 💡 AI Suggestions
+### 💻 Full Stack Development
 
-**🛠 Tech Stack**
-`React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
+* React applications
+* REST APIs
+* Node.js & Express
+* PostgreSQL databases
+* Authentication & authorization
+* Cloud deployment
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🧑‍💼 HireSense AI
-AI-powered hiring assistant that helps recruiters screen resumes and match candidates to job roles intelligently.
+### ☕ Java Development
 
-**✨ Features**
-- 📄 Smart Resume Screening
-- 🔍 Candidate–Job Matching
-- 📈 AI-Driven Candidate Ranking
-- 💬 Instant AI Insights for Recruiters
-
-**🛠 Tech Stack**
-`React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
+* Core Java
+* OOP
+* Collections
+* Exception Handling
+* Problem Solving
+* DSA fundamentals
 
 </td>
-<td width="50%" valign="top">
 
-### ✨ More Coming Soon
-Always building something new — check back for fresh AI & full-stack projects!
+<td width="50%">
+
+### 🚀 Engineering
+
+* Git & GitHub
+* API development
+* Database design
+* Debugging
+* Deployment
+* Building scalable applications
 
 </td>
 </tr>
 </table>
 
-> ✏️ **Note:** I filled in placeholder feature bullets for HireSense AI — reply with the actual details and I'll swap them in.
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+
+<br><br>
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br><br>
+
+### 🔥 Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+<br><br>
+
+### 🤖 AI & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-🏅 **Infosys Internship**  
-📚 **Continuous Learning** in AI & Full Stack Development  
-🚀 **Building Real-World Projects** consistently
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌾 Agri-Smart
+
+### AI-Powered Smart Agriculture Platform
+
+A multilingual agriculture platform designed to provide intelligent farming assistance using AI.
+
+**✨ Key Features**
+
+🌱 AI Crop Advisory
+🦠 Plant Disease Detection
+💧 Irrigation Recommendations
+🌦 Weather-Based Suggestions
+🌐 Tamil & English Support
+🤖 AI Agricultural Assistant
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 SkillGap AI
+
+### AI Resume & Job Analyzer
+
+An intelligent platform that analyzes resumes against job descriptions and identifies relevant skills.
+
+**✨ Key Features**
+
+📄 Resume Analysis
+🎯 Job Description Matching
+📊 Skill Gap Detection
+💡 AI Recommendations
+📈 Candidate Insights
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧑‍💼 HireSense AI
+
+### Intelligent Recruitment Assistant
+
+An AI-powered recruitment platform designed to help recruiters analyze resumes and identify relevant candidates.
+
+**✨ Key Features**
+
+📄 Resume Screening
+🔍 Candidate–Job Matching
+📊 Candidate Analysis
+💬 AI-Powered Insights
+⚡ Automated Recruitment Workflow
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏥 OmniGen
+
+### Grounded Generative AI Healthcare Platform
+
+A document-aware AI platform designed to help healthcare teams process and analyze large volumes of clinical information.
+
+**✨ Key Features**
+
+📄 Clinical Document Processing
+🔎 RAG-Based Search
+🤖 AI Analysis
+📚 Evidence & Grounding
+💬 Document-Aware Assistant
+👨‍⚕️ Human Verification Workflow
+
+**Tech Stack**
+
+`React` `Node.js` `RAG` `Generative AI`
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 🏆 Achievements & Experience
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niranjan1107&show_icons=true&theme=radical&border_color=00e5ff&bg_color=0d1117&title_color=00e5ff&icon_color=ff6ec7"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1107&layout=compact&theme=radical&border_color=00e5ff&bg_color=0d1117&title_color=00e5ff"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Niranjan1107&theme=radical&border=00e5ff&background=0d1117&ring=ff6ec7&fire=ff6ec7"/>
-</p>
+| 🚀 Area        | 📌 Experience                    |
+| -------------- | -------------------------------- |
+| 💼 Internship  | Infosys Internship               |
+| 🌾 AI          | AI-powered Agriculture Platform  |
+| 🏥 GenAI       | Healthcare Document Intelligence |
+| 💻 Development | Full Stack Web Applications      |
+| ☕ Programming  | Java & DSA                       |
+| 🗄️ Database   | PostgreSQL & SQLite              |
+| 🔧 API         | REST API Development             |
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1107&theme=react-dark&bg_color=0d1117&color=00e5ff&line=ff6ec7&point=ffffff"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Niranjan1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Niranjan1107&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1107&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Niranjan1107/Niranjan1107/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 Currently Working On
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        🚀 BUILDING        →        LEARNING                  ║
+║                                                              ║
+║        🤖 AI Applications                                    ║
+║        💻 Full Stack Systems                                 ║
+║        ☕ Java & DSA                                         ║
+║        🗄️ Backend Engineering                                ║
+║        🌐 Cloud & Deployment                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Build real-world AI projects
+* [x] Learn Full Stack Development
+* [x] Work with PostgreSQL
+* [x] Build REST APIs
+* [ ] Master Data Structures & Algorithms
+* [ ] Improve problem-solving skills
+* [ ] Build scalable production applications
+* [ ] Contribute to Open Source
+* [ ] Become a strong Software Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="mailto:niranjan2007shanmugaselvan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/niranjan-s-7a8b71379">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Niranjan1107">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-> 🌐 Add your portfolio link here once it's ready!
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+### **"Build. Break. Learn. Improve. Repeat." 🚀**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=Learning+one+concept+at+a+time+%F0%9F%A7%A0;Turning+ideas+into+working+applications+%F0%9F%9A%80;Solving+real-world+problems+with+technology+%F0%9F%92%A1;The+best+code+is+code+that+solves+a+real+problem+%E2%9C%A8"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Quote
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*"Success is built through continuous learning, consistent practice, and solving real-world problems."*
+### ⭐ Thanks for visiting my GitHub profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-⭐ **Thanks for visiting my profile!** ⭐
+**If you find my projects interesting, feel free to explore and connect! 🚀**
 
 </div>
