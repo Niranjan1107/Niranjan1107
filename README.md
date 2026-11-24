@@ -1,243 +1,206 @@
-<!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Niranjan%20S&fontSize=62&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Java%20Developer&descSize=18&descColor=C9D1D9&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00E5FF&height=240&section=header&text=Niranjan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Java%20Developer&descSize=18&descColor=C9D1D9&descAlignY=58" width="100%" alt="Niranjan S banner" />
 
 <a href="https://github.com/Niranjan1107">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=50&lines=Computer+Science+Engineering+Student+💻;Building+AI-powered+full+stack+applications+🚀;Java+•+React+•+Node.js+•+PostgreSQL;Turning+ideas+into+working+products+✨" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+Engineering+Student;Building+AI-powered+full+stack+apps;Java+%7C+React+%7C+Node.js+%7C+PostgreSQL;Open+to+internships+%26+collaboration" alt="Typing animation" />
 </a>
-
-<br/><br/>
-
-<a href="mailto:niranjan2007shanmugaselvan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/niranjan-s-7a8b71379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/Niranjan1107?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Niranjan1107&label=Profile%20Views&color=7C4DFF&style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/Niranjan1107?label=Followers&style=flat-square&color=00E5FF&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Status-Focusing%20on%20Career-7C4DFF?style=flat-square&labelColor=0d1117" />
+<a href="mailto:niranjan2007shanmugaselvan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/niranjan-s-7a8b71379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Niranjan1107?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repositories" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Niranjan1107&label=Profile%20Views&color=7C4DFF&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Niranjan1107?label=Followers&style=flat-square&color=00E5FF" alt="Followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=flat-square" alt="Status" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" />
+---
 
-<!-- ============================ ABOUT ============================ -->
+## 👋 About Me
 
-## ✨ About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-I'm a **Computer Science Engineering student** who enjoys turning ideas into real, working applications. I build full stack products powered by **Generative AI**, and I'm sharpening my **Java** and **DSA** skills to become a strong software engineer.
+I'm a **Computer Science Engineering student from Chennai, India** who enjoys turning ideas into real, working products. I build full stack applications powered by **Generative AI**, and I'm sharpening my **Java** and **DSA** skills to grow into a strong software engineer.
 
 ```yaml
 name:      Niranjan S
-location:  Chennai, India 🇮🇳
+location:  Chennai, India
 focus:     [Full Stack, Generative AI, Backend]
-learning:  [Advanced Java, DSA, Cloud]
-building:  AI-powered real-world applications
+learning:  [Advanced Java, DSA, Cloud Deployment]
+building:  AI-powered, real-world applications
 mindset:   Build. Break. Learn. Improve. Repeat.
 ```
 
-</td>
-<td width="42%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" />
-
-<!-- ============================ FOCUS ============================ -->
+---
 
 ## ⚡ What I Do
 
-<div align="center">
-
-| 🤖 **Generative AI** | 💻 **Full Stack** | ☕ **Java & DSA** | 🚀 **Engineering** |
+| 🤖 Generative AI | 💻 Full Stack | ☕ Java and DSA | 🚀 Engineering |
 |:---:|:---:|:---:|:---:|
-| Gemini API<br/>RAG Pipelines<br/>Document Analysis<br/>AI Assistants | React<br/>Node.js · Express<br/>REST APIs<br/>PostgreSQL | Core Java<br/>OOP · Collections<br/>Problem Solving<br/>Algorithms | Git & GitHub<br/>API Design<br/>Database Design<br/>Deployment |
+| Gemini API<br/>RAG pipelines<br/>Document analysis<br/>AI assistants | React<br/>Node.js and Express<br/>REST APIs<br/>PostgreSQL | Core Java<br/>OOP and Collections<br/>Problem solving<br/>Algorithms | Git and GitHub<br/>API design<br/>Database design<br/>Deployment |
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" />
-
-<!-- ============================ STACK ============================ -->
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,postgres,sqlite,git,github,vscode,postman&perline=7&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,postgres,sqlite,git,github,vscode,postman&perline=8&theme=dark" alt="Tech stack icons" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-7C4DFF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/RAG-7C4DFF?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge" alt="Generative AI" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST API" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" />
-
-<!-- ============================ PROJECTS ============================ -->
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Niranjan1107/Agri-Smart">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Niranjan1107&repo=Agri-Smart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Niranjan1107/Hiresense-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Niranjan1107&repo=Hiresense-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Niranjan1107/skillgap">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Niranjan1107&repo=skillgap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Niranjan1107/Expense-tracker-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Niranjan1107&repo=Expense-tracker-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9" />
-</a>
+### 🌾 [Agri-Smart](https://github.com/Niranjan1107/Agri-Smart)
+**AI-powered smart agriculture platform**
 
-</div>
+A multilingual farming assistant that gives intelligent, practical guidance to farmers.
 
-<br/>
-
-<details>
-<summary><b>🌾 Agri-Smart</b> — AI-powered smart agriculture platform</summary>
-<br/>
-
-A multilingual farming assistant that combines AI with IoT and sensor-based crop monitoring.
-
-- 🌱 AI crop advisory &nbsp;•&nbsp; 🦠 Plant disease detection
-- 💧 Irrigation recommendations &nbsp;•&nbsp; 🌦 Weather-based suggestions
-- 🌐 Tamil & English support &nbsp;•&nbsp; 🤖 AI agricultural assistant
+- 🌱 AI crop advisory
+- 🦠 Plant disease detection
+- 💧 Irrigation recommendations
+- 🌦 Weather-based suggestions
+- 🌐 Tamil and English support
 
 `React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🧑‍💼 HireSense AI</b> — AI placement preparation platform</summary>
-<br/>
+### 🧑‍💼 [HireSense AI](https://github.com/Niranjan1107/Hiresense-AI)
+**AI placement preparation platform**
 
-An AI mentor that helps students get placement-ready.
+An AI mentor that helps students become placement-ready.
 
-- 📄 Resume improvement &nbsp;•&nbsp; 🎯 Job description analysis
-- 🎤 Mock interviews &nbsp;•&nbsp; 🗣 Communication skills practice
+- 📄 Resume improvement
+- 🎯 Job description analysis
+- 🎤 Mock interviews
+- 🗣 Communication practice
 
 `TypeScript` `React` `Node.js` `Gemini AI`
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🧠 SkillGap AI</b> — resume & job analyzer</summary>
-<br/>
+### 🧠 [SkillGap AI](https://github.com/Niranjan1107/skillgap)
+**AI resume and job analyzer**
 
-Compares a resume against a job description and pinpoints missing skills.
+Compares a resume against a job description and pinpoints the missing skills.
 
-- 📊 Skill gap detection &nbsp;•&nbsp; 💡 AI recommendations &nbsp;•&nbsp; 📈 Candidate insights
+- 📄 Resume analysis
+- 📊 Skill gap detection
+- 💡 AI recommendations
+- 📈 Candidate insights
 
 `React` `Node.js` `Express` `PostgreSQL` `Gemini AI`
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🏥 OmniGen</b> — grounded GenAI healthcare platform</summary>
-<br/>
+### 🏥 [OmniGen](https://github.com/Niranjan1107?tab=repositories)
+**Grounded GenAI healthcare platform**
 
 A document-aware AI platform for processing and analyzing large volumes of clinical information.
 
-- 🔎 RAG-based search &nbsp;•&nbsp; 📚 Evidence & grounding &nbsp;•&nbsp; 👨‍⚕️ Human verification workflow
+- 🔎 RAG-based search
+- 📚 Evidence and grounding
+- 💬 Document-aware assistant
+- 👨‍⚕️ Human verification workflow
 
 `React` `Node.js` `RAG` `Generative AI`
 
-</details>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" />
+---
 
-<!-- ============================ ANALYTICS ============================ -->
+## 🏆 Experience and Highlights
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Niranjan1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Niranjan1107&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1107&bg_color=0D1117&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF&hide_border=true" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" />
-
-<!-- ============================ SNAKE ============================ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Niranjan1107/Niranjan1107/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C4DFF&height=2&section=header" width="100%" />
-
-<!-- ============================ GOALS ============================ -->
-
-## 🎯 2026 Roadmap
-
-- [x] Build real-world AI projects
-- [x] Build REST APIs with Node.js & PostgreSQL
-- [ ] Master Data Structures & Algorithms
-- [ ] Go deeper with Advanced Java
-- [ ] Learn cloud deployment
-- [ ] Contribute to open source
-- [ ] Become a strong Software Engineer 🚀
-
-## 🏆 Experience
-
-| Area | Experience |
+| Area | Details |
 |:---|:---|
 | 💼 Internship | Infosys Internship |
 | 🌾 AI | AI-powered Agriculture Platform |
 | 🏥 GenAI | Healthcare Document Intelligence |
 | 💻 Development | Full Stack Web Applications |
-| ☕ Programming | Java & DSA |
-| 🗄️ Database | PostgreSQL & SQLite |
+| ☕ Programming | Java and DSA |
+| 🗄️ Database | PostgreSQL and SQLite |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,100:00E5FF&height=2&section=header" width="100%" />
+---
 
-<!-- ============================ CONTACT ============================ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niranjan1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Niranjan1107&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🏅 Achievements and Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Niranjan1107&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan1107&bg_color=0D1117&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+- [x] Build real-world AI projects
+- [x] Build REST APIs with Node.js and PostgreSQL
+- [ ] Master Data Structures and Algorithms
+- [ ] Go deeper with Advanced Java
+- [ ] Learn cloud deployment
+- [ ] Contribute to open source
+- [ ] Become a strong Software Engineer 🚀
+
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="mailto:niranjan2007shanmugaselvan@gmail.com"><img src="https://img.shields.io/badge/Gmail-niranjan2007shanmugaselvan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:niranjan2007shanmugaselvan@gmail.com"><img src="https://img.shields.io/badge/Gmail-niranjan2007shanmugaselvan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <br/>
-<a href="https://www.linkedin.com/in/niranjan-s-7a8b71379/"><img src="https://img.shields.io/badge/LinkedIn-Niranjan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/Niranjan1107"><img src="https://img.shields.io/badge/GitHub-Niranjan1107-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/niranjan-s-7a8b71379/"><img src="https://img.shields.io/badge/LinkedIn-Niranjan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Niranjan1107"><img src="https://img.shields.io/badge/GitHub-Niranjan1107-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=7C4DFF&center=true&vCenter=true&width=760&lines=%22Build.+Break.+Learn.+Improve.+Repeat.%22+🚀;The+best+code+is+code+that+solves+a+real+problem+✨;Open+to+internships+%26+collaboration+🤝" />
+**"Build. Break. Learn. Improve. Repeat."** 🚀
 
-<br/>
-
-⭐ *Thanks for visiting my profile!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
