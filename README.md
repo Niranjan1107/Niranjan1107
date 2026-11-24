@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,33:7928ca,66:2b5cff,100:00e5ff&height=280&section=header&text=NIRANJAN%20S&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%2FML&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="Niranjan S banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00e5ff&height=170&section=header&animation=twinkling" width="100%" alt="banner" />
 
-<a href="https://github.com/Niranjan1107">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=860&height=55&lines=Java+%26+Spring+Boot+Developer;Building+AI-Powered+Full+Stack+Apps;Infosys+Springboard+Intern+%7C+Pega+NIP+2026;SIH+2025+%26+2026+%7C+AMD+AI+DevMaster+2026;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing animation" />
-</a>
+<h1>👋 Hi, I'm Niranjan S</h1>
+
+<h3>Software Engineer • Java & Spring Boot • AI/ML</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=50&lines=Java+and+Spring+Boot+Developer;Building+AI-Powered+Full+Stack+Apps;Infosys+Springboard+Intern+and+Pega+NIP+2026;SIH+2025+and+2026+-+AMD+AI+DevMaster+2026;Open+to+Internships+and+Entry-Level+Roles" alt="Typing animation" />
 
 <br/>
 
@@ -148,28 +150,15 @@ Built for the **AMD AI DevMaster Hackathon 2026** (Agentic AI track).
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🧠 [SkillGapAI](https://github.com/Niranjan1107/skillgap)
 **Resume vs Job Description Analyzer** (Infosys Springboard)
 
-- 📊 Skill gap detection
-- 💡 Personalized recommendations
-- 🌐 Tamil and English support
+- 📊 Skill gap detection and personalized employability recommendations
+- 🌐 Tamil and English language support
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" alt="ML" /> <img src="https://img.shields.io/badge/NLP-8E75B2?style=flat-square" alt="NLP" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 [Hostel Management System](https://github.com/Niranjan1107?tab=repositories)
-**Full Stack Student Administration Platform**
-
-- 🔐 Secure room allocation
-- 📋 Digital attendance profiling
-- 📈 Analytical reporting
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 
 </td>
 </tr>
